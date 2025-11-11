@@ -37,6 +37,7 @@ Open the notebook to follow the step-by-step implementation, experiment with hyp
 ## Dataset
 This project is intended to use the popular Kaggle "Dogs vs Cats" dataset:
 - Kaggle competition / dataset: https://www.kaggle.com/competitions/dogs-vs-cats/data
+- Google Dive Link / dataset: https://drive.google.com/drive/u/0/folders/17H-2Aihf-KgrvH8Z2EcefHzQtIql66IG
 
 Notes:
 - The dataset must be downloaded separately (Kaggle requires authentication). Place the images in the paths expected by the notebook (instructions are included inside the notebook).
@@ -72,6 +73,7 @@ The notebook contains code to split the data into training, validation (and opti
 
 2. Download the Dogs vs Cats dataset from Kaggle and place it where the notebook expects.
    - Dataset: https://www.kaggle.com/competitions/dogs-vs-cats/data
+   - Google Dive Link / dataset: https://drive.google.com/drive/u/0/folders/17H-2Aihf-KgrvH8Z2EcefHzQtIql66IG
 
 3. Install dependencies (example using pip)
    - python -m pip install --upgrade pip
@@ -118,8 +120,8 @@ pip install jupyter numpy pandas matplotlib seaborn scikit-learn tensorflow pill
 
 ## Project structure
 - Classification-of-Cats-and-Dogs.ipynb  — primary Jupyter Notebook (implementation + explanations)
-- (optional) requirements.txt                 — environment dependencies
-- (optional) data/                             — where dataset is organized (not included here)
+- requirements.txt                 — environment dependencies
+- data/                             — where dataset is organized (not included here)
 
 Note: The repository is notebook-first — code and narrative are combined inside the .ipynb file.
 
@@ -138,4 +140,4 @@ This repository is provided under the MIT License. See the LICENSE file for deta
 - Author: dikshakashyap063
 - Acknowledgements: Kaggle for the Dogs vs Cats dataset and the many open-source libraries used (TensorFlow, Keras, scikit-learn, etc.).
 
-If you want help running the notebook or reproducing results, open an issue or contact the repository owner via their GitHub profile.
+
