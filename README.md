@@ -1,3 +1,13 @@
+Submitted by:
+Name: Diskha Kashyap
+Roll NO.: 20221010110129
+Course:B.Tech. CS(DS+AI)
+Group: 75
+Subject: Deep Learning
+Subject Code: UCS7802
+Submitted to: Mr. Angshuraj Gharami
+
+
 # Classification of Cats and Dogs using CNN
 
 A Jupyter Notebook project that demonstrates how to build, train, and evaluate a Convolutional Neural Network (CNN) to classify images of cats and dogs. The project walks through data preparation, model architecture, training, and result visualization — all in a single notebook.
@@ -139,5 +149,6 @@ This repository is provided under the MIT License. See the LICENSE file for deta
 ## Contact & Acknowledgements
 - Author: dikshakashyap063
 - Acknowledgements: Kaggle for the Dogs vs Cats dataset and the many open-source libraries used (TensorFlow, Keras, scikit-learn, etc.).
+
 
 
