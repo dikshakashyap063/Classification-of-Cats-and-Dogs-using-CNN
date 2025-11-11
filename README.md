@@ -1,1 +1,1 @@
-# Classification-of-Cats-and-Dogs-using-CNN
+# Dog-and-Cat-Classification
