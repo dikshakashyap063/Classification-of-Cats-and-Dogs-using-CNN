@@ -1,11 +1,11 @@
-Submitted by:
-Name: Diskha Kashyap
-Roll NO.: 20221010110129
-Course:B.Tech. CS(DS+AI)
-Group: 75
-Subject: Deep Learning
-Subject Code: UCS7802
-Submitted to: Mr. Angshuraj Gharami
+## Submitted by:
+## Name: Diskha Kashyap
+## Roll NO.: 20221010110129
+## Course:B.Tech. CS(DS+AI)
+## Group: 75
+## Subject: Deep Learning
+## Subject Code: UCS7802
+## Submitted to: Mr. Angshuraj Gharami
 
 
 # Classification of Cats and Dogs using CNN
